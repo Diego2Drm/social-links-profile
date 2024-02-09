@@ -2,6 +2,8 @@
 
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
 
+My solution: "https://diego2drm.github.io/social-links-profile/"
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
