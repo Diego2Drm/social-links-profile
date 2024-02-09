@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.link{
+   @apply bg-[#333333] w-full p-4 text-center text-[#ffffff] text-base rounded-md 
+}
+.link:hover{
+    @apply bg-[#c5f82a] text-black font-semibold cursor-pointer scale-[1.1]
+}
